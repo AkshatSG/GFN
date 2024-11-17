@@ -1,0 +1,19 @@
+Sample set 1
+
+c1cc(O)ccc1	-4.64
+C=CC=C(C=CCO)C[NH+]1CCc2ccccc2C1	-4.72
+C=CC(O)=C(C=CC)c1ccccn1	-4.82
+C=CC=C(C=CCO)C1CCCCC1NC(=O)COc1cccc(CSc2ccccc2)c1	-5.24
+C=CC=C(C=CCO)C1CCCCC1NC(=O)COc1cccc(CSc2ccccc2N2CCS(=O)CC2)c1	-5.46
+C=CC=C(C=CCO)C(C)(NC(=O)NCCN1CCCC2CCCCC21)C(=O)[O-]	-5.61
+
+C(=N[*:2])c1ccc([*:1])cc1	-4.32
+C(=NCc1ccnc(OC2CCC2)c1)c1ccccc1	-4.69
+Cn1cc(C=O)c(Cc2ccc(C=NNC3CCCCCC3)cc2)n1	-4.91
+CCC(C)CNC(=O)C1CCOC1N=Cc1ccc(C(C)CSC)cc1	-5.05
+C=NNc1ccc(C=NC(C)(C)NC(CNCNC=O)N2CC[NH+](C)CC2)cc1	-5.11
+CC(C)(O)CCCC(=O)c1ccc(C=NC(Cc2ccc(C=O)s2)(C(=O)[O-])c2ccc(C=O)s2)cc1	-5.61
+CCCC(=O)c1ccc(C=NC(Cc2ccc(C=O)s2)(C(=O)[O-])c2ccc(C=O)s2)cc1	-5.83
+
+
+
